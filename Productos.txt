@@ -1,4 +1,0 @@
-1, Camisas, 100
-2, Pantalones, 200
-3, Bufandas, 50
-4, Sweater, 250
