@@ -1,4 +1,0 @@
-1, Fabian, 111, Francia, 1234
-2, Kimberly, 112, Costa Rica, 2345
-3, Santiago, 113, Costa Rica, 3456
-4, Magaly, 114, Panama, 4567
